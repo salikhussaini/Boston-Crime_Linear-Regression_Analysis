@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570940671691.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "317019487",
+    "id" : "77EA0547",
+    "lastKnownWriteTime" : 1570950106,
+    "last_content_update" : 1570950106454,
+    "path" : "~/Documents/DePaul/Data Analysis and Regression/Group Project/423-project/chartWork.R",
+    "project_path" : "chartWork.R",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
