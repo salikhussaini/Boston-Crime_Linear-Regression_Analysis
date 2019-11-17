@@ -1,5 +1,4 @@
 # 423-project
-Repository for quarter regression project. 
+Repository for quarter regression project of prediciting crimes in Boston.
 
-## Reminders
-Try to keep the data directory clean by checking out your own branches to do work in, then commit and pull request to merge when you are done. It will avoid clutter of multiple versions of the data file.
+This model was written in R; and utlizes several parameters from Boston.Gov to predicit future crimes utlizing Multi-variable linear Regression. 
